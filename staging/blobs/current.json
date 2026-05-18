@@ -1,1 +1,63 @@
-{"test": "debagent04 push fix"}
+{
+  "device_id": "bbb3badc-6365-49ea-b43c-53869ca0195f",
+  "device_proof": "",
+  "entries": [
+    {
+      "hash": "bc66fbaba2150b4142b7c0b3ee634c31afc89ce8bd09a04748e99b6070412b62",
+      "data": {
+        "title": "Working on phpoc",
+        "duration": 0,
+        "is_active": true,
+        "is_paused": false,
+        "startTime_enc": "plain:1779099621610",
+        "endTime_enc": null,
+        "pauses_enc": "plain:[{\"pause_index\": 1, \"pause_start\": 1779103526375, \"pause_stop\": 1779103540052}]",
+        "metadata_enc": "plain:{}",
+        "tags": [
+          "coding",
+          "software development",
+          "training"
+        ],
+        "media": []
+      },
+      "start_epoch": 1779099621610
+    },
+    {
+      "hash": "26947996d401d5a7d2190838dd1a09abdde16b2b7477165a4fa1f864d74c403e",
+      "data": {
+        "title": "Working on phpoc",
+        "duration": 0,
+        "is_active": true,
+        "is_paused": false,
+        "startTime_enc": "plain:1779103660530",
+        "endTime_enc": null,
+        "pauses_enc": "plain:[]",
+        "metadata_enc": "plain:{}",
+        "tags": [
+          "coding",
+          "software development",
+          "training"
+        ],
+        "media": []
+      },
+      "start_epoch": 1779103660530
+    },
+    {
+      "hash": "55c5f3f4e20be0594057e3fe51fc6881b88ca9be3211da4698ea2eb4242887a0",
+      "data": {
+        "title": "Test on debagent04",
+        "duration": 1000,
+        "is_active": false,
+        "is_paused": false,
+        "startTime_enc": "plain:1779108516007",
+        "endTime_enc": "plain:1779108517007",
+        "pauses_enc": "plain:[]",
+        "metadata_enc": "plain:{}",
+        "tags": [],
+        "media": []
+      },
+      "start_epoch": 1779108516007
+    }
+  ],
+  "updated_at": 1779108884939.7217
+}
